@@ -1,0 +1,21 @@
+# Object files and libraries
+*.o
+*.a
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# MacOS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V*
+.Trashes
+
+# Executable binary files
+test/
+data/
